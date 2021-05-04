@@ -8,7 +8,7 @@
   <h3 align="center">News App</h3>
 
   <p align="center">
-    News Flutter App used <a href="https//newsapi.org">https//newsapi.org</a>
+    News Flutter App used <a href="https//newsapi.org/">https//newsapi.org</a>
     <br>
     Base project made with Flutter 2.0 with Sound Null Safety!
     <br>
